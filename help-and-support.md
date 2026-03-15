@@ -10,8 +10,8 @@ For general inquiries, schedule changes, or festival information, please reach o
 ## Technical Support 
 If you found a bug in the app, are having trouble logging in, or experiencing payment gateway failures, please contact the development team directly.
 
-* **Email:** dev-support@tatva.net
-* **GitHub:** [Report an Issue](https://github.com/gaurav-33/tatva)
+* **Email:** gauravsuman2k24@gmail.com
+* **GitHub:** [Report an Issue](https://github.com/gaurav-33/tatva-static)
 
 ### Frequently Asked Questions
 
