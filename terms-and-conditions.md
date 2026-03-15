@@ -25,4 +25,4 @@ Any disputes related to this policy will be handled by the central organizing co
 ## 7. Contact Us
 In order to resolve a complaint regarding the Application or to receive further information regarding use of the Application, please contact us at:
 
-**Email:** support@tatva.net (Replace with your actual email)
+**Email:** gauravsuman2k24@gmail.com
